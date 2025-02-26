@@ -1,3 +1,3 @@
 ## Projeto Desenvolve - Itabira
-**Disciplina:** Introdução á Progrmação Web
+**Disciplina:** Introdução á Programação Web
 **Matrícula:** PDITA753
